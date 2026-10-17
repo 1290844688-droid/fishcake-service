@@ -1,8 +1,6 @@
 module github.com/FishcakeLab/fishcake-service
 
-go 1.24.0
-
-toolchain go1.24.3
+go 1.27.2
 
 require (
 	firebase.google.com/go/v4 v4.15.2

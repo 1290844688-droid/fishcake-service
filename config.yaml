@@ -14,8 +14,8 @@ http_port: 8189
 db_host: "127.0.0.1"
 db_port: 45432
 db_name: "fishcake"
-db_user: "bitadmin"
-db_password: "wZa9wHac"
+db_user: "postgres"
+db_password: "postgres"
 
 metrics_host: "127.0.0.1"
 metrics_port: 9090
